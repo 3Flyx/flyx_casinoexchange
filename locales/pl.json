@@ -1,0 +1,17 @@
+{
+    "target_label": "Wymiana żetonów kasynowych",
+    "main_title": "Wymiana żetonów",
+    "notify_title": "Wymiana żetonów",
+    "buy_chips": "Kup żetony",
+    "buy_chips_desc": "Kup tutaj żetony kasynowe",
+    "buy_title": "Kup",
+    "buy_number_title": "Ilość żetonów",
+    "buy_number_desc": "Podaj ile żetonów chcesz kupić",
+    "sell_chips": "Sprzedaj żetony",
+    "sell_chips_desc": "Sprzedaj tutaj swoje żetony kasynowe",
+    "sell_title": "Sprzedaj",
+    "sell_number_title": "Ilość żetonów",
+    "sell_number_desc": "Podaj ile żetonów chcesz sprzedać",
+    "error_removing_money": "Wystąpił błąd przy usuwaniu gotówki!",
+    "error_removing_chips": "Wystąpił błąd przy usuwaniu żetonów!"
+}

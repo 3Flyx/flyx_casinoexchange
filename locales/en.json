@@ -1,0 +1,17 @@
+{
+    "target_label": "Casino Chip Exchange",
+    "main_title": "Chip Exchange",
+    "notify_title": "Chip Exchange",
+    "buy_chips": "Buy Chips",
+    "buy_chips_desc": "Purchase casino chips here",
+    "buy_title": "Buy",
+    "buy_number_title": "Number of Chips",
+    "buy_number_desc": "Enter how many chips you want to buy",
+    "sell_chips": "Sell Chips",
+    "sell_chips_desc": "Sell your casino chips here",
+    "sell_title": "Sell",
+    "sell_number_title": "Number of Chips",
+    "sell_number_desc": "Enter how many chips you want to sell",
+    "error_removing_money": "There was an error with removing money!",
+    "error_removing_chips": "There was an error with removing chips!"
+}
