@@ -13,5 +13,7 @@
     "sell_number_title": "Ilość żetonów",
     "sell_number_desc": "Podaj ile żetonów chcesz sprzedać",
     "error_removing_money": "Wystąpił błąd przy usuwaniu gotówki!",
-    "error_removing_chips": "Wystąpił błąd przy usuwaniu żetonów!"
+    "error_removing_chips": "Wystąpił błąd przy usuwaniu żetonów!",
+    "not_enough_money": "Nie masz wystarczająco gotówki!",
+    "not_enough_chips": "Nie masz wystarczająco żetonów!"
 }
